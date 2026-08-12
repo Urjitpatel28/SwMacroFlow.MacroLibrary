@@ -1,0 +1,14 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "name":  "HelloWorld",
+                        "title":  "HelloWorld",
+                        "summary":  null,
+                        "macroPath":  "Macros/HelloWorld.swp",
+                        "docPath":  "Docs/HelloWorld.md",
+                        "macroSha":  "8d32de93339bc64025fe8513fc6cf4dd0440be4d",
+                        "docSha":  "0dcbd31b491d21ddb27cedc5a9dab6f54ff235e9"
+                    }
+                ]
+}

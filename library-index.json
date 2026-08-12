@@ -2,13 +2,58 @@
     "version":  1,
     "entries":  [
                     {
+                        "name":  "Change Document Unit",
+                        "title":  "Change Document Unit",
+                        "summary":  "Sets the document\u0027s unit system and the individual length, angle, mass, volume, time, force, power and energy units. Optionally switches inch dimensions to fractions.",
+                        "macroPath":  "Macros/Change Document Unit.swp",
+                        "docPath":  "Docs/Change Document Unit.md",
+                        "macroSha":  "19b28fd36f387ef29fa5d4efe68dea5838e1775b",
+                        "docSha":  "f9dc7616df1e29f0e1e35b716d0ff721f52a423f"
+                    },
+                    {
+                        "name":  "Change Drawing Template",
+                        "title":  "Change Drawing Template",
+                        "summary":  "Applies a `.slddrt` sheet format to one sheet, several named sheets, or every sheet in a drawing, then rebuilds and saves.",
+                        "macroPath":  "Macros/Change Drawing Template.swp",
+                        "docPath":  "Docs/Change Drawing Template.md",
+                        "macroSha":  "bac8960ade74922f20101afb2b497ea34a45f833",
+                        "docSha":  "fbc673034a53eee94dba6419da24b95a53e9fb19"
+                    },
+                    {
                         "name":  "HelloWorld",
                         "title":  "HelloWorld",
-                        "summary":  null,
+                        "summary":  "Testing macro added",
                         "macroPath":  "Macros/HelloWorld.swp",
                         "docPath":  "Docs/HelloWorld.md",
                         "macroSha":  "8d32de93339bc64025fe8513fc6cf4dd0440be4d",
-                        "docSha":  "0dcbd31b491d21ddb27cedc5a9dab6f54ff235e9"
+                        "docSha":  "099fce8fcf8c3fcde5140694068d5f43fb70fd84"
+                    },
+                    {
+                        "name":  "Insert Block In Drawings",
+                        "title":  "Insert Block In Drawings",
+                        "summary":  "Inserts a `.sldblk` sketch block at a fixed position on one sheet, several named sheets, or every sheet in a drawing, then rebuilds and saves.",
+                        "macroPath":  "Macros/Insert Block In Drawings.swp",
+                        "docPath":  "Docs/Insert Block In Drawings.md",
+                        "macroSha":  "19b41f0579f600eecca4e24b6a163cf35a3fe3d4",
+                        "docSha":  "36c8405537340087a04df6024c2a336c3c2a8ed5"
+                    },
+                    {
+                        "name":  "Save PDF",
+                        "title":  "Save PDF",
+                        "summary":  "Exports the open document to PDF. Works on parts, assemblies and drawings.",
+                        "macroPath":  "Macros/Save PDF.swp",
+                        "docPath":  "Docs/Save PDF.md",
+                        "macroSha":  "0f382f5b3c30b4aa335f228b659b24924c6fe2f2",
+                        "docSha":  "23f8fe84bf904da89aac6a00f2fe7ad41393f251"
+                    },
+                    {
+                        "name":  "Save with Performance Improvement",
+                        "title":  "Save with Performance Improvement",
+                        "summary":  "Turns image quality down to its cheapest settings â€” shaded deviation at maximum, high-quality edges off, wireframe quality at its lowest â€” then saves a copy named `\u003cname\u003e_Optimized`.",
+                        "macroPath":  "Macros/Save with Performance Improvement.swp",
+                        "docPath":  "Docs/Save with Performance Improvement.md",
+                        "macroSha":  "bc547722760526231010acf7f6c086f03de49677",
+                        "docSha":  "bf92c72b7c07f710828b1f06949c0f7b05dadbbd"
                     }
                 ]
 }

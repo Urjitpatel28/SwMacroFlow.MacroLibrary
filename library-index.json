@@ -1,4 +1,4 @@
-﻿{
+{
     "version":  1,
     "entries":  [
                     {
@@ -8,7 +8,7 @@
                         "macroPath":  "Macros/Change Document Unit.swp",
                         "docPath":  "Docs/Change Document Unit.md",
                         "macroSha":  "19b28fd36f387ef29fa5d4efe68dea5838e1775b",
-                        "docSha":  "f9dc7616df1e29f0e1e35b716d0ff721f52a423f"
+                        "docSha":  "4117ee483c8d59bc93efc96a93c73b2d350bc41e"
                     },
                     {
                         "name":  "Change Drawing Template",
@@ -17,7 +17,7 @@
                         "macroPath":  "Macros/Change Drawing Template.swp",
                         "docPath":  "Docs/Change Drawing Template.md",
                         "macroSha":  "bac8960ade74922f20101afb2b497ea34a45f833",
-                        "docSha":  "fbc673034a53eee94dba6419da24b95a53e9fb19"
+                        "docSha":  "7ed26d06a5ee3c3184bbce8acb166103a00e974e"
                     },
                     {
                         "name":  "HelloWorld",
@@ -26,7 +26,7 @@
                         "macroPath":  "Macros/HelloWorld.swp",
                         "docPath":  "Docs/HelloWorld.md",
                         "macroSha":  "8d32de93339bc64025fe8513fc6cf4dd0440be4d",
-                        "docSha":  "099fce8fcf8c3fcde5140694068d5f43fb70fd84"
+                        "docSha":  "05dd6af118c3278b86c5e31d55937a1d866c859a"
                     },
                     {
                         "name":  "Insert Block In Drawings",
@@ -35,7 +35,7 @@
                         "macroPath":  "Macros/Insert Block In Drawings.swp",
                         "docPath":  "Docs/Insert Block In Drawings.md",
                         "macroSha":  "19b41f0579f600eecca4e24b6a163cf35a3fe3d4",
-                        "docSha":  "36c8405537340087a04df6024c2a336c3c2a8ed5"
+                        "docSha":  "1995e3b5609df375d52058714b92a247fb648997"
                     },
                     {
                         "name":  "Save PDF",
@@ -44,16 +44,16 @@
                         "macroPath":  "Macros/Save PDF.swp",
                         "docPath":  "Docs/Save PDF.md",
                         "macroSha":  "0f382f5b3c30b4aa335f228b659b24924c6fe2f2",
-                        "docSha":  "23f8fe84bf904da89aac6a00f2fe7ad41393f251"
+                        "docSha":  "fe431110bf2d9583c04f51151d4055520e5238e8"
                     },
                     {
                         "name":  "Save with Performance Improvement",
                         "title":  "Save with Performance Improvement",
-                        "summary":  "Turns image quality down to its cheapest settings â€” shaded deviation at maximum, high-quality edges off, wireframe quality at its lowest â€” then saves a copy named `\u003cname\u003e_Optimized`.",
+                        "summary":  "Turns image quality down to its cheapest settings — shaded deviation at maximum, high-quality edges off, wireframe quality at its lowest — then saves a copy named `\u003cname\u003e_Optimized`.",
                         "macroPath":  "Macros/Save with Performance Improvement.swp",
                         "docPath":  "Docs/Save with Performance Improvement.md",
                         "macroSha":  "bc547722760526231010acf7f6c086f03de49677",
-                        "docSha":  "bf92c72b7c07f710828b1f06949c0f7b05dadbbd"
+                        "docSha":  "4937911d73390093fef8344e58d9c65ffef51c99"
                     }
                 ]
 }

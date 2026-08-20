@@ -1,0 +1,7 @@
+# The app verifies a plain SHA-1 of the bytes raw.githubusercontent.com serves, which are the
+# LF blob bytes. Checking out CRLF would make the library-index.json hashes unreproducible.
+* text=auto eol=lf
+
+# Macro binaries must never go through an EOL filter. Git only infers this today by sniffing
+# content, which is one lucky byte away from corrupting a macro.
+*.swp binary
